@@ -1,5 +1,10 @@
 ### Hello there 👋🏻, I'm Lucas
 ---
+##### I am a working student at Frankfurt School of Finance & Management enrolled in the Computational Business Analytics program.
+
+- 🔭 I’m currently working on becoming a Data Analyst
+- 🌱 I’m currently learning about computer & data science concepts
+---
 <div>
   <a href="https://github.com/vivekweb2013">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lmw2109&show_icons=true&include_all_commits=true&count_private=true"/>
