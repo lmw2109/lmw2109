@@ -10,7 +10,7 @@
 - [Linked in](https://linkedin.com/in/lucaswagner2109)
 ---
 <div>
-  <a href="https://github.com/vivekweb2013">
+  <a href="https://github.com/lmw2109">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lmw2109&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmw2109&layout=compact&langs_count=6"/>
 </div>
