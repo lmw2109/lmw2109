@@ -4,6 +4,9 @@
 
 - 🔭 I’m currently working on becoming a Data Analyst
 - 🌱 I’m currently learning about computer & data science concepts
+
+[My website](www.lucaswagner.online)
+[Linked in](www.linkedin.com/in/lucaswagner2109)
 ---
 <div>
   <a href="https://github.com/vivekweb2013">
