@@ -1,5 +1,10 @@
 ### Hello there 👋🏻, I'm Lucas
-
+---
+<div>
+  <a href="https://github.com/vivekweb2013">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lmw2109&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmw2109&layout=compact&langs_count=6"/>
+</div>
 ![Profile views](https://gpvc.arturio.dev/lmw2109)
 
 <!--
