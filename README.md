@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning about computer & data science concepts
 #### Socials:
 
-- [My webpage](https://lucaswagner.online)
 - [Linked in](https://linkedin.com/in/lucaswagner2109)
 ---
 <div>
